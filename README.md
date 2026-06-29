@@ -9,7 +9,7 @@ Hi 👋, I'm Rahul Prakash
 </h1>
 
 <h3 align="center">
-AI Engineer • Backend Developer • Building Intelligent Systems
+Backend Developer•AI Engineer • Building Intelligent Systems
 </h3>
 
 <p align="center">
