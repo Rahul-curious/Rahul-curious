@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rahul Prakash
 
-## 🚀 AI Engineer | Backend Developer
+## 🚀  Backend Developer| AI Engineer
 
 I enjoy building scalable backend systems, AI-powered applications, and intelligent software that solves real-world problems.
 
