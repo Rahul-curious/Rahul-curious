@@ -1,4 +1,4 @@
-````markdown
+
 <!-- ========================================================= -->
 <!--                 PREMIUM GITHUB PROFILE                     -->
 <!--                  Rahul Prakash                            -->
@@ -143,7 +143,7 @@ I enjoy transforming complex ideas into production-ready applications while cont
 
 ```
 ```
-```markdown
+
 # 🚀 Featured Projects
 
 <table>
@@ -324,8 +324,8 @@ AI-powered platform for incident detection, monitoring and intelligent response.
 > **"Great software isn't just code—it's thoughtful engineering, continuous learning, and solving real-world problems."**
 
 ---
-```
-````markdown
+
+
 # 🌐 Connect With Me
 
 <p align="center">
